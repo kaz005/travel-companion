@@ -1,0 +1,25 @@
+{
+  "variant": "default",
+  "primary": "hsl(0, 0%, 0%)",
+  "appearance": "light",
+  "radius": 0.75,
+  "slider": {
+    "track": {
+      "background": "hsl(220, 16%, 90%)",
+      "height": "4px",
+      "borderRadius": "2px"
+    },
+    "range": {
+      "background": "hsl(213, 94%, 50%)",
+      "height": "4px",
+      "borderRadius": "2px"
+    },
+    "thumb": {
+      "background": "hsl(213, 94%, 50%)",
+      "border": "2px solid hsl(213, 94%, 50%)",
+      "width": "14px",
+      "height": "14px",
+      "borderRadius": "50%"
+    }
+  }
+}
